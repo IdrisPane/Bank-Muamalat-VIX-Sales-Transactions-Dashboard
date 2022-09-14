@@ -7,6 +7,7 @@ Extracting data, making a report, building sales dashboard using transactions da
 - Microsoft Power BI
 - Microsoft Excel
 - MySQL Workbench
+- PowerPoint (For Presentation)
 
 ## Dataset
 https://rakamin-lms.s3.ap-southeast-1.amazonaws.com/vix-assets/bankmuamalatBI/dataset_task+5.xlsx
